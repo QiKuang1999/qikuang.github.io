@@ -6,13 +6,10 @@ website:
   page-navigation: true
   title: "Qi KUANG"
   site-url: https://lianyujun.github.io
-  favicon: images/site-logo.png
   repo-url: https://github.com/lianyujun/lianyujun.github.io
   repo-actions: [edit, issue]
   
   page-footer:
-    left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
