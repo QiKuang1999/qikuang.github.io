@@ -149,3 +149,16 @@ h4 {
   background-position: 1em 0.5em;
 }
 
+/* Hide any custom/site logo in the navbar (override) */
+.site-logo,
+.site-logo img,
+.navbar-brand img,
+.site-navbar .site-logo,
+.site-header .site-logo {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+  background-image: none !important;
+  background: none !important;
+  content: none !important;
+}
